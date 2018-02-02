@@ -1,2 +1,2 @@
 # gitdemo
-Demo of git commands for Wednesday lab.
+Just a few tests using all the git commands
